@@ -1,5 +1,6 @@
 extern crate time;
 extern crate rayon;
+extern crate packed_simd;
 use packed_simd::f64x4;
 use packed_simd::f64x8;
 use rayon::prelude::*;

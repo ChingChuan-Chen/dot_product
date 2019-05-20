@@ -1,0 +1,5 @@
+rust_dotproduct/target
+**/*.rs.bk
+.vscode
+*.obj
+*.exe

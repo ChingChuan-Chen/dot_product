@@ -8,7 +8,7 @@
  - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
  - [Rust](https://www.rust-lang.org/)
 
-## Performance Results:
+## Performance Results (in seconds):
 
 | Programs                 | First Time  | Second Time | Third Time  | Avg. Time |
 |--------------------------|-------------|-------------|-------------|-----------|
